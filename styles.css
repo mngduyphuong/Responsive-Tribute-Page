@@ -9,11 +9,13 @@ body{
 }
 #tribute-info{
     line-height: 1.6;
-    position: relative;
 }
 ul{
     text-align: left;
     padding: 0 10% 0;
+}
+li{
+    margin-top: 1rem;
 }
 #image{
     display:block;
